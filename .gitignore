@@ -1,0 +1,12 @@
+# Rust
+target/
+**/*.rs.bk
+
+# Node
+node_modules/
+ui/dist/
+
+# Application artifacts created during development
+*.log
+.DS_Store
+Thumbs.db
